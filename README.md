@@ -1,8 +1,10 @@
-# Simon Game - Final CAB202 Assessment
+# CAB202-Final-Project: Simon Game
 
 ## 📌 Project Overview
 
-This project is an implementation of the **Simon Game** on an embedded system as part of the **Final CAB202 Assessment**. The game consists of four buttons (S1 to S4) corresponding to each button on **QUTY**, each producing a distinct tone when pressed.
+This project is an implementation of the **Simon Game** on an embedded system as part of the **Final CAB202 Project**.
+The game consists of four buttons (S1 to S4) corresponding to each button on **QUTY**,
+each producing a distinct tone when pressed.
 
 ## 🛠️ Technologies & Skills Learned
 
