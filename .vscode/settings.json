@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.md": "html",
+    "sequence.h": "c",
+    "typedef.h": "c",
+    "alltypedef.h": "c"
+  }
+}
